@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://ashoreon.com/images/ashoreon-logo-badge.png" alt="Ashoreon" width="120">
+</p>
 
-<!--
-**ashoreon/ashoreon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Ashoreon</h3>
+<p align="center">Datenbasierte Produktvergleiche für den deutschsprachigen Markt.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ashoreon** ist ein unabhängiges Vergleichsportal, das Produkte datengestützt vergleicht — von Bluetooth-Kopfhörern über Fitnessgeräte bis zu Haushaltsgeräten.
+
+Unsere Vergleiche basieren auf aktuellen Preisdaten, technischen Spezifikationen und redaktioneller Einordnung.
+
+🔗 **Website:** [ashoreon.com](https://ashoreon.com)
+📄 **Methodik:** [So arbeiten wir](https://ashoreon.com/pages/methodik/)
